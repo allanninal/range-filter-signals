@@ -1,0 +1,2 @@
+rf_default	InpPeriod=100,InpMult=3.0,InpHistory=3000
+rf_p20_m2	InpPeriod=20,InpMult=2.0,InpHistory=3000

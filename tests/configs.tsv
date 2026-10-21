@@ -1,0 +1,2 @@
+rf_default	InpAlertPopup=false
+rf_p20_m2	InpAlertPopup=false,InpPeriod=20,InpMult=2.0

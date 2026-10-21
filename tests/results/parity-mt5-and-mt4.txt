@@ -1,0 +1,56 @@
+# MT5 (Strategy Tester dumps compared with tests/reference.py), 24 files
+PASS rf_default_BTCUSD_H1           bars  3000  filter OK  range OK  bands OK  side OK  setup OK  buys  47 OK  sells  47 OK
+PASS rf_default_BTCUSD_H4           bars  3000  filter OK  range OK  bands OK  side OK  setup OK  buys  49 OK  sells  49 OK
+PASS rf_default_BTCUSD_M15          bars  3000  filter OK  range OK  bands OK  side OK  setup OK  buys  54 OK  sells  53 OK
+PASS rf_default_EURUSD_H1           bars  3000  filter OK  range OK  bands OK  side OK  setup OK  buys  52 OK  sells  51 OK
+PASS rf_default_EURUSD_H4           bars  3000  filter OK  range OK  bands OK  side OK  setup OK  buys  39 OK  sells  38 OK
+PASS rf_default_EURUSD_M15          bars  3000  filter OK  range OK  bands OK  side OK  setup OK  buys  44 OK  sells  44 OK
+PASS rf_default_GBPJPY_H1           bars  3000  filter OK  range OK  bands OK  side OK  setup OK  buys  46 OK  sells  45 OK
+PASS rf_default_GBPJPY_H4           bars  3000  filter OK  range OK  bands OK  side OK  setup OK  buys  48 OK  sells  47 OK
+PASS rf_default_GBPJPY_M15          bars  3000  filter OK  range OK  bands OK  side OK  setup OK  buys  39 OK  sells  39 OK
+PASS rf_default_XAUUSD_H1           bars  3000  filter OK  range OK  bands OK  side OK  setup OK  buys  49 OK  sells  49 OK
+PASS rf_default_XAUUSD_H4           bars  3000  filter OK  range OK  bands OK  side OK  setup OK  buys  37 OK  sells  37 OK
+PASS rf_default_XAUUSD_M15          bars  3000  filter OK  range OK  bands OK  side OK  setup OK  buys  49 OK  sells  50 OK
+PASS rf_p20_m2_BTCUSD_H1            bars  3000  filter OK  range OK  bands OK  side OK  setup OK  buys  81 OK  sells  82 OK
+PASS rf_p20_m2_BTCUSD_H4            bars  3000  filter OK  range OK  bands OK  side OK  setup OK  buys  86 OK  sells  86 OK
+PASS rf_p20_m2_BTCUSD_M15           bars  3000  filter OK  range OK  bands OK  side OK  setup OK  buys  83 OK  sells  84 OK
+PASS rf_p20_m2_EURUSD_H1            bars  3000  filter OK  range OK  bands OK  side OK  setup OK  buys  86 OK  sells  85 OK
+PASS rf_p20_m2_EURUSD_H4            bars  3000  filter OK  range OK  bands OK  side OK  setup OK  buys  81 OK  sells  80 OK
+PASS rf_p20_m2_EURUSD_M15           bars  3000  filter OK  range OK  bands OK  side OK  setup OK  buys  77 OK  sells  78 OK
+PASS rf_p20_m2_GBPJPY_H1            bars  3000  filter OK  range OK  bands OK  side OK  setup OK  buys  85 OK  sells  84 OK
+PASS rf_p20_m2_GBPJPY_H4            bars  3000  filter OK  range OK  bands OK  side OK  setup OK  buys  83 OK  sells  83 OK
+PASS rf_p20_m2_GBPJPY_M15           bars  3000  filter OK  range OK  bands OK  side OK  setup OK  buys  90 OK  sells  90 OK
+PASS rf_p20_m2_XAUUSD_H1            bars  3000  filter OK  range OK  bands OK  side OK  setup OK  buys  76 OK  sells  76 OK
+PASS rf_p20_m2_XAUUSD_H4            bars  3000  filter OK  range OK  bands OK  side OK  setup OK  buys  75 OK  sells  75 OK
+PASS rf_p20_m2_XAUUSD_M15           bars  3000  filter OK  range OK  bands OK  side OK  setup OK  buys  82 OK  sells  82 OK
+
+ALL PASS (24 files)
+
+# MT4 (Strategy Tester dumps compared with tests/reference.py), 25 files
+PASS rf_default_BTCUSD_H1           bars 15526  filter OK  range OK  bands OK  side OK  setup OK  buys 228 OK  sells 228 OK
+PASS rf_default_BTCUSD_H4           bars  3881  filter OK  range OK  bands OK  side OK  setup OK  buys  62 OK  sells  63 OK
+PASS rf_default_BTCUSD_M15          bars 62084  filter OK  range OK  bands OK  side OK  setup OK  buys 908 OK  sells 908 OK
+PASS rf_default_EURUSD_H1           bars 10997  filter OK  range OK  bands OK  side OK  setup OK  buys 169 OK  sells 169 OK
+PASS rf_default_EURUSD_H4           bars  2753  filter OK  range OK  bands OK  side OK  setup OK  buys  35 OK  sells  36 OK
+PASS rf_default_EURUSD_M15          bars 43979  filter OK  range OK  bands OK  side OK  setup OK  buys 651 OK  sells 651 OK
+PASS rf_default_GBPJPY_H1           bars 10996  filter OK  range OK  bands OK  side OK  setup OK  buys 158 OK  sells 157 OK
+PASS rf_default_GBPJPY_H4           bars  2753  filter OK  range OK  bands OK  side OK  setup OK  buys  42 OK  sells  43 OK
+PASS rf_default_GBPJPY_M15          bars 43977  filter OK  range OK  bands OK  side OK  setup OK  buys 644 OK  sells 643 OK
+PASS rf_default_XAUUSD_H1           bars 11306  filter OK  range OK  bands OK  side OK  setup OK  buys 171 OK  sells 172 OK
+PASS rf_default_XAUUSD_H4           bars  3694  filter OK  range OK  bands OK  side OK  setup OK  buys  58 OK  sells  58 OK
+PASS rf_default_XAUUSD_M15          bars 42199  filter OK  range OK  bands OK  side OK  setup OK  buys 613 OK  sells 612 OK
+PASS rf_default_ticks_EURUSD_H1     bars  5812  filter OK  range OK  bands OK  side OK  setup OK  buys  88 OK  sells  88 OK
+PASS rf_p20_m2_BTCUSD_H1            bars 15526  filter OK  range OK  bands OK  side OK  setup OK  buys 404 OK  sells 405 OK
+PASS rf_p20_m2_BTCUSD_H4            bars  3881  filter OK  range OK  bands OK  side OK  setup OK  buys 112 OK  sells 111 OK
+PASS rf_p20_m2_BTCUSD_M15           bars 62084  filter OK  range OK  bands OK  side OK  setup OK  buys 1660 OK  sells 1660 OK
+PASS rf_p20_m2_EURUSD_H1            bars 10997  filter OK  range OK  bands OK  side OK  setup OK  buys 306 OK  sells 306 OK
+PASS rf_p20_m2_EURUSD_H4            bars  2753  filter OK  range OK  bands OK  side OK  setup OK  buys  72 OK  sells  72 OK
+PASS rf_p20_m2_EURUSD_M15           bars 43979  filter OK  range OK  bands OK  side OK  setup OK  buys 1209 OK  sells 1208 OK
+PASS rf_p20_m2_GBPJPY_H1            bars 10996  filter OK  range OK  bands OK  side OK  setup OK  buys 302 OK  sells 302 OK
+PASS rf_p20_m2_GBPJPY_H4            bars  2753  filter OK  range OK  bands OK  side OK  setup OK  buys  76 OK  sells  77 OK
+PASS rf_p20_m2_GBPJPY_M15           bars 43977  filter OK  range OK  bands OK  side OK  setup OK  buys 1218 OK  sells 1217 OK
+PASS rf_p20_m2_XAUUSD_H1            bars 11306  filter OK  range OK  bands OK  side OK  setup OK  buys 291 OK  sells 292 OK
+PASS rf_p20_m2_XAUUSD_H4            bars  3694  filter OK  range OK  bands OK  side OK  setup OK  buys  97 OK  sells  96 OK
+PASS rf_p20_m2_XAUUSD_M15           bars 42199  filter OK  range OK  bands OK  side OK  setup OK  buys 1145 OK  sells 1144 OK
+
+ALL PASS (25 files)
